@@ -1,5 +1,7 @@
 ## PROJECT_1: Bussiness Landing Page
 
+![Bussiness Landing Page](./Images/BusinesslandingPage.png)
+
 ## [Github Link](https://github.com/abhishek7329sharma/bussiness_landing_page)
 
 ## [Live Link](https://12-abhishek-business-landing-page.netlify.app/)
