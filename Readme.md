@@ -1,4 +1,5 @@
-## PROJECT_1: Bussiness Landing Page
+# HTML & CSS Projects - Abhishek Sharma ❤️
+## 📂 PROJECT_1: Bussiness Landing Page
 
 ![Bussiness Landing Page](./Images/BusinesslandingPage.png)
 
@@ -8,7 +9,7 @@
 
 <hr>
 
-## PROJECT_2: Street Style Landing Page
+## 📂 PROJECT_2: Street Style Landing Page
 
 ![Street Style Landing Page](./Images/StreetStyle.png)
 
@@ -18,7 +19,7 @@
 
 <hr>
 
-## PROJECT_3: Food Restaurant Landing Page
+## 📂 PROJECT_3: Food Restaurant Landing Page
 
 ![Food Restaurant Landing Page](./Images/FoodStyle.png)
 
@@ -28,7 +29,7 @@
 
 <hr>
 
-## PROJECT_4: Law Landing Page
+## 📂 PROJECT_4: Law Landing Page
 
 ![Law Landing Page](./Images/LawStyle.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/Law_Home_Page)
@@ -37,7 +38,7 @@
 
 <hr>
 
-## PROJECT_5: Digital Marketing Landing Page
+## 📂 PROJECT_5: Digital Marketing Landing Page
 
 
 ![Digital Marketing Landing Page](./Images/Digitial%20marketing.png)
@@ -47,7 +48,7 @@
 
 <hr>
 
-## PROJECT_6: Crypto Landing Page
+## 📂 PROJECT_6: Crypto Landing Page
 
 ![Crypto Landing Page](./Images/CryptoLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/crypto_landing_page)
@@ -56,7 +57,7 @@
 
 <hr>
 
-## PROJECT_7: Plant Landing Page
+## 📂 PROJECT_7: Plant Landing Page
 
 ![Plant Landing Page](./Images/Plant.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/plant_home_page)
@@ -65,7 +66,7 @@
 
 <hr>
 
-## PROJECT_8: Product Landing Page
+## 📂 PROJECT_8: Product Landing Page
 
 ![Product Landing Page](./Images/productlanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/product_landing_page)
@@ -74,7 +75,7 @@
 
 <hr>
 
-## PROJECT_9: Web Design Landing Page
+## 📂 PROJECT_9: Web Design Landing Page
 
 ![Web Design Landing Page](./Images/WebDesign.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/web_desig_landing_page)
@@ -83,7 +84,7 @@
 
 <hr>
 
-## PROJECT_10: Developer Landing Page
+## 📂 PROJECT_10: Developer Landing Page
 
 ![Developer Landing Page](./Images/DeveloperLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/developer-landing-page)
@@ -92,7 +93,7 @@
 
 <hr>
 
-## PROJECT_11: Interior Design Landing Page
+## 📂 PROJECT_11: Interior Design Landing Page
 
 ![Interior Design Landing Page](./Images/InteriorDesignLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/interior_design_landing_page)
@@ -101,7 +102,7 @@
 
 <hr>
 
-## PROJECT_12: Hosting Landing Page
+## 📂 PROJECT_12: Hosting Landing Page
 
 ![Hosting Landing Page](./Images/HostingLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/hosting-landing-page)
@@ -110,7 +111,7 @@
 
 <hr>
 
-## PROJECT_13: Saas Landing Page
+## 📂 PROJECT_13: Saas Landing Page
 
 ![Saas Landing Page](./Images/SaasLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/saas_landing_page)
@@ -119,7 +120,7 @@
 
 <hr>
 
-## PROJECT_14: Dance Landing Page
+## 📂 PROJECT_14: Dance Landing Page
 
 ![Dance Landing Page](./Images/DanceLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/dance_landing_page)
@@ -128,7 +129,7 @@
 
 <hr>
 
-## PROJECT_15: Product Design Landing Page
+## 📂 PROJECT_15: Product Design Landing Page
 
 ![Product Design Landing Page](./Images/ProductDesign.png)
 
