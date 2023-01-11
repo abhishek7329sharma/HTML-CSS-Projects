@@ -120,7 +120,7 @@
 
 <hr>
 
-## 📂 PROJECT_14: Dance Landing Page
+## 📂 PROJECT_14: Dance Landing Page.
 
 ![Dance Landing Page](./Images/DanceLanding.png)
 ### 👉 [Github Link](https://github.com/abhishek7329sharma/dance_landing_page)
